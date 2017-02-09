@@ -1,0 +1,15 @@
+---
+name: testing
+maintainer: robert
+email: robert@localhost.hu
+homepage: https://www.bludit.com/en/
+version: 1.5.2
+architecture:
+- x86_64
+revision: 7
+contents:
+  - path: /a
+    mode: 0755
+  - path: /b
+    mode: 0777
+
